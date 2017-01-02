@@ -1,6 +1,6 @@
-# NAVES PUNGAS II v1.0
+# Naves Pungas II v1.0
 
-My very first videogame made in Pascal.
+My very first videogame made in Pascal back in 2001.
 An ASCII space ship battle, something like space invaders.
 
 ### Required Tools
